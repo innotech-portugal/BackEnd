@@ -1,2 +1,2 @@
 # BackEnd Job Opportunities
-https://github.com/innotech/BackEnd_Job_Opportunities/Issues
+https://github.com/innotech-portugal/BackEnd_Job_Opportunities/issues
